@@ -11,7 +11,6 @@ public class A {
 		sc.close();
 		
 		int C = A/B;
-		System.out.println(C);
 		if (A%B != 0) {
 			C++;
 		}
