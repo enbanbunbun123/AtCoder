@@ -1,3 +1,4 @@
+//package 20230527;
 import java.util.Scanner;
 
 public class A {
