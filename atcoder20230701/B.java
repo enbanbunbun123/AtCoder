@@ -35,8 +35,6 @@ public class B {
                 totalCost += defaultPrice;
             }
         }
-
         System.out.println(totalCost);
     }
-
 }

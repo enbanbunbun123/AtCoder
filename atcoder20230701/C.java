@@ -46,7 +46,6 @@ public class C {
                 }
             }
         });
-//        person.sort(Comparator.comparing(person::getSuccessRate).reserved());
         
         for(person p : persons) {
         	System.out.print(p.id+ " ");
