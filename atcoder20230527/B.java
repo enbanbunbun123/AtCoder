@@ -1,3 +1,4 @@
+package atcoder20230527;
 import java.util.Scanner;
 
 public class  B{

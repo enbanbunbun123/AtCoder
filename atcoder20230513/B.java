@@ -1,4 +1,4 @@
-package atcorder20230513;
+package atcoder20230513;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ public class B {
 			if(num[i] - num[i+1] != 1) {
 				int insertIndex = i + 1;
 				int insertValue = num[1] + 1;
-				num.add(insertIndex,insertValue)
+//				num.add(insertIndex,insertValue)
 			}
 		}
 	}

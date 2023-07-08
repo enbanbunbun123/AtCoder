@@ -1,4 +1,4 @@
-package atcorder20230513;
+package atcoder20230513;
 import java.util.Scanner;
 
 public class A {
